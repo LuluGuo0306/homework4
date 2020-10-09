@@ -86,6 +86,7 @@ footer{
   /*-webkit-grid-template-columns: 1fr 5fr 1fr;*/
   grid-template-columns: 1fr 5fr 1fr;
   grid-template-rows: auto auto auto auto auto;
+  grid-row-gap: 15px;
 }
 
 header{
